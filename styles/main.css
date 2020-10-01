@@ -1,0 +1,18 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.shop {
+    flex-basis: 16%;
+    border: 1px dotted blue;
+    padding: 1em;
+    margin: 0.5em;
+    
+}
+.pageHeader {
+    text-align: center;
+    color: red;
+    
+}
